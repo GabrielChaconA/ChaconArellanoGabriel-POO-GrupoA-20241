@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Producto {
     Scanner sc = new Scanner(System.in);
-    private String nombre = "juan";
+    private String nombre = "Juan";
     private double precio = 0.0;
     private int stock = 0;
 

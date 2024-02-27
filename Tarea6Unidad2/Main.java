@@ -12,7 +12,7 @@ public class Main {
         producto.setNombre("pepe");
         producto.setStock(5);
         producto.setprecio(4503.12);
-        System.out.println("Tu stok es de: " + producto.getStock());
+        System.out.println("Tu stock es de: " + producto.getStock());
 
         boolean flag = true;
         while (flag) {
